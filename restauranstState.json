@@ -1,0 +1,161 @@
+{
+    "restaurantName": "Fatta Home",
+    "restaurantLogoURL": "https://images.deliveryhero.io/image/talabat/restaurants/Logo_(1)_637182818935981690.jpg?width=180",
+    "primaryColor": "#0A763C", 
+    "secondaryColor": "white", 
+    "categories": [
+        "Fun Boxes",
+        "Healthy Jam",
+        "Appetizers",
+        "Salads",
+        "Sandwiches",
+        "Rice Dishes",
+        "Fatta Dishes",
+        "Pasta Dishes",
+        "Sweets",
+        "Drinks"
+    ],
+    "meals": [
+        {
+            "name": "Kids Box",
+            "category": "Fun Boxes",
+            "description": "Sandwich of your choice, french fries, fresh juice and chocolate.",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "1.500"
+        },
+        {
+            "name": "Large Breakfast Box",
+            "category": "Fun Boxes",
+            "description": "Egg, Jam , Beetroot Hummus, Avocado Hummus, Salad, Cheese, Labneh and Olive",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "9.000"
+        },        
+        {
+            "name": "Mixed Berry Jam",
+            "category": "Healthy Jam",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "3.500"
+        },
+        {
+            "name": "Strawberry Jam",
+            "category": "Healthy Jam",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "3.000"
+        },        
+        {
+            "name": "Dynamite Fries",
+            "category": "Appetizers",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "2.000"
+        },
+        {
+            "name": "Eggplant Toast",
+            "category": "Appetizers",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "0.800"
+        },        
+        {
+            "name": "Doritos Salad",
+            "category": "Salads",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "2.500"
+        },
+        {
+            "name": "Um Kisha Salads",
+            "category": "Salads",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "2.500"
+        },        
+        {
+            "name": "Chicken Taco",
+            "category": "Sandwiches",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "1.400"
+        },
+        {
+            "name": "Chicken Tortilla",
+            "category": "Sandwiches",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "1.500"
+        },        
+        {
+            "name": "Tandoori Chicken with Rice",
+            "category": "Rice Dishes",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "3.500"
+        },
+        {
+            "name": "Chicken Tikka with Rice",
+            "category": "Rice Dishes",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "3.500"
+        },        
+        {
+            "name": "Fatta Shamia",
+            "category": "Fatta Dishes",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "4.000"
+        },
+        {
+            "name": "Falafel Fatta",
+            "category": "Fatta Dishes",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "3.000"
+        },        
+        {
+            "name": "Chicken Alfredo",
+            "category": "Pasta Dishes",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "3.500"
+        },
+        {
+            "name": "Red Pasta",
+            "category": "Pasta Dishes",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "2.500"
+        },        
+        {
+            "name": "Kunafa Pafpastry",
+            "category": "Sweets",
+            "description": "20 Pieces with Sweetened Milk",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "3.000"
+        },
+        {
+            "name": "Cheese Samosa",
+            "category": "Sweets",
+            "description": "15 Pieces With Sugar Syrup",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "2.500"
+        },        
+        {
+            "name": "Milkshake",
+            "category": "Drinks",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "1.200"
+        },
+        {
+            "name": "Slash",
+            "category": "Drinks",
+            "description": "",
+            "imageURL": "https://drive.google.com/uc?export=view&id=1zyGtZM1Dv8XILlh6B7a3UxwLy6dMQyLl",
+            "price": "1.400"
+        }
+    ],
+    "currentCategory": "Fun Boxes"
+}

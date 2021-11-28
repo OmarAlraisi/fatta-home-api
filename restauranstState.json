@@ -1,0 +1,356 @@
+{
+    "restaurantName": "Fatta Home",
+    "restaurantLogoURL": "https://images.deliveryhero.io/image/talabat/restaurants/Logo_(1)_637182818935981690.jpg?width=180",
+    "primaryColor": "#0A763C", 
+    "secondaryColor": "white", 
+    "categories": [
+        "Fun Boxes",
+        "Appetizers",
+        "Salads",
+        "Sandwiches",
+        "Rice Dishes",
+        "Fatta Dishes",
+        "Pasta Dishes",
+        "Sweets",
+        "Drinks"
+    ],
+    "meals": [
+        {
+            "name": "Kids Box",
+            "category": "Fun Boxes",
+            "description": "Sandwich of your choice, french fries, fresh juice and chocolate.",
+            "imageID": "1S85Pxnel1fordkOC-kdV0GGKIcgWYtXI",
+            "price": "1.500"
+        },
+        {
+            "name": "Breakfast Box",
+            "category": "Fun Boxes",
+            "description": "Egg, cheese, Labneh, hummus, Zataar and bread",
+            "imageID": "1V1ZSQhhgO3HZGQqD--ALnlAyOiJRkCDn",
+            "price": "2.800"
+        },        
+        {
+            "name": "Fried Box",
+            "category": "Fun Boxes",
+            "description": "Samosa, Katchore and Kofta Sauce",
+            "imageID": "1TMKm7Eo5_2DXmDGCnC9Q1V5RsLlz_eye",
+            "price": "6.000"
+        },        
+        {
+            "name": "Large Breakfast Box",
+            "category": "Fun Boxes",
+            "description": "Egg, Jam , Beetroot Hummus, Avocado Hummus, Salad, Cheese, Labneh and Olive",
+            "imageID": "17WiLSySfz9ZfpFVOVCEgHgrXahK5HeNk",
+            "price": "9.000"
+        },       
+        {
+            "name": "Dynamite Fries",
+            "category": "Appetizers",
+            "description": "",
+            "imageID": "1kIs85k_3mVpEZH5ABH1vLN1tszp23G57",
+            "price": "2.000"
+        },             
+        {
+            "name": "Sambosa",
+            "category": "Appetizers",
+            "description": "",
+            "imageID": "1-uERGgXZpvc3pB7XkENkM236OHVXvqFS",
+            "price": "0.800"
+        },
+        {
+            "name": "Eggplant Toast",
+            "category": "Appetizers",
+            "description": "",
+            "imageID": "1iFWqO22xNNoDr7_Q2OcARlNdBJyTWman",
+            "price": "0.800"
+        },        
+        {
+            "name": "Ritz Pizza",
+            "category": "Appetizers",
+            "description": "",
+            "imageID": "1tVb5kUUvZeorAIPN4NxrCI7bBlI7q7j2",
+            "price": "1.200"
+        },        
+        {
+            "name": "Corn with Cream and Sauce",
+            "category": "Appetizers",
+            "description": "Corn, cream, special Sause, lemon and chips",
+            "imageID": "1JA6kLe2pSG-cFOm-qkBgsLGCw0XUq0-d",
+            "price": "1.300"
+        },        
+        {
+            "name": "Nachos Meal Big",
+            "category": "Appetizers",
+            "description": "Nachos, cheese, halapeno, sauce, juacomali and slash",
+            "imageID": "1bwDnzGZBcQoR9s390zlzr9mK3stj3EFW",
+            "price": "3.800"
+        },        
+        {
+            "name": "Nachos Meal Small",
+            "category": "Appetizers",
+            "description": "Nachos, cheese, halapeno and slash",
+            "imageID": "1Xxz0Z10ykc99MJZPN_oLh1vTiXd8U-bV",
+            "price": "2.900"
+        },        
+        {
+            "name": "Vegetable Pasta Spring Rolls",
+            "category": "Appetizers",
+            "description": "Pasta, carrots and cabbage",
+            "imageID": "1YCHtj2Yy-LcypvMLfvCfbpZSsCbVsoFj",
+            "price": "2.500"
+        },        
+        {
+            "name": "Doritos Salad",
+            "category": "Salads",
+            "description": "",
+            "imageID": "1jCdJk7egNEFAMdaN0MjziX66gLvfG5aD",
+            "price": "2.500"
+        },
+        {
+            "name": "Um Kisha Salads",
+            "category": "Salads",
+            "description": "",
+            "imageID": "1RMAx7GgnxJ2JguC9OBJ4LM4F7VzHlzR2",
+            "price": "2.500"
+        },        
+        {
+            "name": "Hummus Salad",
+            "category": "Salads",
+            "description": "",
+            "imageID": "1faeN66rPbmEO_vFBMOSkD5mkv7gjAcTO",
+            "price": "3.000"
+        },        
+        {
+            "name": "Mango And Pomegranate Salad",
+            "category": "Salads",
+            "description": "",
+            "imageID": "1GhtINIgKvtzyeaEbpGVjakbjjr31Wt5C",
+            "price": "3.000"
+        },        
+        {
+            "name": "Chicken Popcorn Salad With Buffalo Sauce",
+            "category": "Salads",
+            "description": "Salad,popcorn Buffalo Sauce",
+            "imageID": "1wkyH9cIaiXqlyGAwSBJUoqht8rnRASoI",
+            "price": "3.500"
+        },        
+        {
+            "name": "Chicken Taco",
+            "category": "Sandwiches",
+            "description": "",
+            "imageID": "1XJxJI0xMe8YOl_bMU_sr88LyXph3vihZ",
+            "price": "1.400"
+        },
+        {
+            "name": "Chicken Tortilla",
+            "category": "Sandwiches",
+            "description": "",
+            "imageID": "1J9tsj1DdO9uf6gWpfzSOrYbViPcBo0ib",
+            "price": "1.500"
+        },        
+        {
+            "name": "Special Burger Sandwich",
+            "category": "Sandwiches",
+            "description": "",
+            "imageID": "1HcXoPzmAlocE5FekuKeAMMg0ietP3JvU",
+            "price": "1.800"
+        },        
+        {
+            "name": "Special Burger Meal",
+            "category": "Sandwiches",
+            "description": "",
+            "imageID": "1gQ99T2tTflW8imXl29F9cTMYNy7psrZH",
+            "price": "2.900"
+        },        
+        {
+            "name": "Twin Club",
+            "category": "Sandwiches",
+            "description": "Egg and Cheese | Egg And Cheese And Mortadella | Tuna",
+            "imageID": "1ei1yIyD0bCq2LsP2sgcX9ywWpevm4S_J",
+            "price": "1.300 - 2.200"
+        },        
+        {
+            "name": "Chicken Wrap",
+            "category": "Sandwiches",
+            "description": "",
+            "imageID": "1yC6yvx4ugZoLy6p6puU1elRWFwlcx9aN",
+            "price": "1.400"
+        },        
+        {
+            "name": "Falafel Sandwich",
+            "category": "Sandwiches",
+            "description": "",
+            "imageID": "1mo7nlRGWojgopMEtQq1MZUNLqQbJUabP",
+            "price": "1.500"
+        },        
+        {
+            "name": "Delicious Sandwiches",
+            "category": "Sandwiches",
+            "description": "Egg, Cheese And Pepperoni | Chicken Burger | Beef Burger | Chicken Zinger",
+            "imageID": "1rcg-xngRlFaGMvORouzGxsN6CcGnstL8",
+            "price": "2.000 - 3.000"
+        },        
+        {
+            "name": "Tandoori Chicken with Rice",
+            "category": "Rice Dishes",
+            "description": "",
+            "imageID": "1R2Yu1g8-cEIW8GvFJ6aoPizR9wbP9GQy",
+            "price": "3.500"
+        },
+        {
+            "name": "Chicken Tikka with Rice",
+            "category": "Rice Dishes",
+            "description": "",
+            "imageID": "1mCWEttIBpEhTboHmWyAGa7Dc7f0GXV-K",
+            "price": "3.500"
+        },        
+        {
+            "name": "Kebba With Milk And Rice",
+            "category": "Rice Dishes",
+            "description": "",
+            "imageID": "1df8VjNK_l1R2ETlXG_20Wb-b2AcFcQ7B",
+            "price": "3.500"
+        },        
+        {
+            "name": "Fatta Shamia",
+            "category": "Fatta Dishes",
+            "description": "",
+            "imageID": "1FSJjQ0rX5-gJVc7wamgC1w5HxOdPSwHf",
+            "price": "4.000"
+        },
+        {
+            "name": "Falafel Fatta",
+            "category": "Fatta Dishes",
+            "description": "",
+            "imageID": "1je6R7mh6xuwYWlYFfWL26ZgyKPUZG-Q9",
+            "price": "3.000"
+        },        
+        {
+            "name": "Eggplant Fatta",
+            "category": "Fatta Dishes",
+            "description": "",
+            "imageID": "1NnTk2skFKlmXmwptVDj_tsjMBSF7W7XN",
+            "price": "3.000"
+        },        
+        {
+            "name": "Toast Fatta",
+            "category": "Fatta Dishes",
+            "description": "",
+            "imageID": "18-xtxGWi3B2DiwNEhqokyno29Kk1XU7D",
+            "price": "2.500"
+        },        
+        {
+            "name": "Mexican Fatta",
+            "category": "Fatta Dishes",
+            "description": "",
+            "imageID": "1nwarzn5hxTSKiSym1L8QWBamVPpk0n6o",
+            "price": "4.000"
+        },        
+        {
+            "name": "Chicken Alfredo",
+            "category": "Pasta Dishes",
+            "description": "",
+            "imageID": "1XNIZK1cncuCV00OX7Z5Q-taGFkV7oR4f",
+            "price": "3.500"
+        },
+        {
+            "name": "Minced Beef Pasta",
+            "category": "Pasta Dishes",
+            "description": "",
+            "imageID": "1Ei9YoAwUvKYM_DrMB27mk-rwpkqvJgxw",
+            "price": "3.500"
+        },
+        {
+            "name": "Red Pasta",
+            "category": "Pasta Dishes",
+            "description": "",
+            "imageID": "1i1LwgwYwnsOlQOhrHDjvTi4Ql746DUFb",
+            "price": "2.500"
+        },        
+        {
+            "name": "Chicken Strips Pasta With Cream",
+            "category": "Pasta Dishes",
+            "description": "",
+            "imageID": "1InLWoPeFzYLijHAkf8q1gToKfKdhBDWN",
+            "price": "3.000"
+        },        
+        {
+            "name": "Pink Pasta",
+            "category": "Pasta Dishes",
+            "description": "Pasta with cream and mozzarella cheese.",
+            "imageID": "1dOaBTT8VJjNwqHI8H9myWrYPNJX2OFO4",
+            "price": "4.000"
+        },        
+        {
+            "name": "Sweet Noodles Ahmed",
+            "category": "Sweets",
+            "description": "",
+            "imageID": "15rc-M5HqeqBbDK6I8pQDfRK9YQfN_ldC",
+            "price": "1.000"
+        },
+        {
+            "name": "Kunafa Pafpastry",
+            "category": "Sweets",
+            "description": "20 Pieces with Sweetened Milk",
+            "imageID": "1yBG_OVY5Nn0tdHfshWxmi-Mg4KdlroaP",
+            "price": "3.000"
+        },
+        {
+            "name": "Cheese Samosa",
+            "category": "Sweets",
+            "description": "15 Pieces With Sugar Syrup",
+            "imageID": "1el361LlKSKfTfz9dEwQWNQ5mBst7m0kO",
+            "price": "2.500"
+        },        
+        {
+            "name": "Milkshake",
+            "category": "Drinks",
+            "description": "",
+            "imageID": "1xHbUzIIzH2SDAJTjffRw1gN76UUmOR3R",
+            "price": "1.200"
+        },
+        {
+            "name": "Slash",
+            "category": "Drinks",
+            "description": "",
+            "imageID": "1KzkYIFVzFdGXIC6LZ8W5g3QgMAEm3L92",
+            "price": "1.400"
+        },
+        {
+            "name": "Mojitos",
+            "category": "Drinks",
+            "description": "",
+            "imageID": "1ZPyBD4oFv0fqwjOttvZJW66ASgYWVSqS",
+            "price": "1.500"
+        },
+        {
+            "name": "Oreo Milkshake",
+            "category": "Drinks",
+            "description": "Ice Cream, Milk and Oreo",
+            "imageID": "13SoeA4BmcGvqTadhpGhoFqR09J_4lAcN",
+            "price": "2.200"
+        },
+        {
+            "name": "Kinder Milkshake",
+            "category": "Drinks",
+            "description": "Kinder, milk and ice cream",
+            "imageID": "1MgcXlNhhO9GpQvsjgUbup0ioqDYoV7SP",
+            "price": "2.200"
+        },
+        {
+            "name": "Nutella Milkshake",
+            "category": "Drinks",
+            "description": "Nutella, milk and ice cream",
+            "imageID": "1KPnLXh98bjSqJxRfefX86sUakoGVV-gc",
+            "price": "2.200"
+        },
+        {
+            "name": "Ferrero Milkshake",
+            "category": "Drinks",
+            "description": "Ferrero, milk and ice cream",
+            "imageID": "1BVejIvpFhOGvP2RpGRM7if5ZuIG56Vls",
+            "price": "2.200"
+        }
+    ],
+    "currentCategory": "Fun Boxes"
+}

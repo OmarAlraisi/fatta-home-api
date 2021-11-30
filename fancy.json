@@ -2,13 +2,14 @@
     "loaded": true, 
     "restaurantName": "Fancy Cafe",
     "restaurantLogoURL": "https://drive.google.com/uc?export=view&id=19opS5ZVUTMSbtFQZJA5jN-8pX_fUixC2",
-    "primaryColor": "#8CB2BC", 
+    "primaryColor": "blue", 
     "secondaryColor": "#185C50", 
     "categories": [
         "Coffee Lovers",
         "Chocolate & Iced Tea",
         "Fusion",
-        "Blizzard"
+        "Blizzard",
+        "Sweets"
     ],
     "meals": [
         {
@@ -42,6 +43,14 @@
         {
             "name": "Espresso",
             "category": "Coffee Lovers",
+            "description": "",
+            "imageID": "1b26EEDWClfY-IUpTtrfrMRmivnVoJPEb",
+            "price": "0.8"
+        },
+        
+        {
+            "name": "Omar",
+            "category": "Sweets",
             "description": "",
             "imageID": "1b26EEDWClfY-IUpTtrfrMRmivnVoJPEb",
             "price": "0.8"

@@ -2,7 +2,7 @@
     "loaded": true, 
     "restaurantName": "Fancy Cafe",
     "restaurantLogoURL": "https://drive.google.com/uc?export=view&id=19opS5ZVUTMSbtFQZJA5jN-8pX_fUixC2",
-    "primaryColor": "blue", 
+    "primaryColor": "#8CB2BC", 
     "secondaryColor": "#185C50", 
     "categories": [
         "Coffee Lovers",

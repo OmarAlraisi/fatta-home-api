@@ -1,0 +1,51 @@
+{
+    "loaded": true, 
+    "restaurantName": "Fancy Cafe",
+    "restaurantLogoURL": "",
+    "primaryColor": "#185C50", 
+    "secondaryColor": "#CB696F", 
+    "categories": [
+        "Coffee Lovers",
+        "Chocolate & Iced Tea",
+        "Fusion",
+        "Blizzard"
+    ],
+    "meals": [
+        {
+            "name": "Espresso",
+            "category": "Coffee Lovers",
+            "description": "",
+            "imageID": "",
+            "price": "0.8"
+        },
+        {
+            "name": "Espresso",
+            "category": "Coffee Lovers",
+            "description": "",
+            "imageID": "",
+            "price": "0.8"
+        },
+        {
+            "name": "Espresso",
+            "category": "Coffee Lovers",
+            "description": "",
+            "imageID": "",
+            "price": "0.8"
+        },
+        {
+            "name": "Espresso",
+            "category": "Coffee Lovers",
+            "description": "",
+            "imageID": "",
+            "price": "0.8"
+        },
+        {
+            "name": "Espresso",
+            "category": "Coffee Lovers",
+            "description": "",
+            "imageID": "",
+            "price": "0.8"
+        }
+    ],
+    "currentCategory": "Coffee Lovers"
+}

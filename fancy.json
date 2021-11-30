@@ -8,8 +8,7 @@
         "Coffee Lovers",
         "Chocolate & Iced Tea",
         "Fusion",
-        "Blizzard",
-        "Sweets"
+        "Blizzard"
     ],
     "meals": [
         {
@@ -47,14 +46,6 @@
             "imageID": "1b26EEDWClfY-IUpTtrfrMRmivnVoJPEb",
             "price": "0.8"
         },
-        
-        {
-            "name": "Omar",
-            "category": "Sweets",
-            "description": "",
-            "imageID": "1b26EEDWClfY-IUpTtrfrMRmivnVoJPEb",
-            "price": "0.8"
-        }
     ],
     "currentCategory": "Coffee Lovers"
 }
